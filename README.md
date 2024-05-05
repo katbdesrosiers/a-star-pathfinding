@@ -1,5 +1,7 @@
 # A* Pathfinding
-A* pathfinding algorithm implemented and visualized with python
+A* pathfinding algorithm implemented with python and visualized with pygame
+
+4 direction Manhattan distance
 
 Node: anything in a graph that is visitable
 
